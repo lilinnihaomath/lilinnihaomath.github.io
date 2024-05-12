@@ -6,7 +6,7 @@
 [还是链接到百度][1]
 
 [1]:https://www.baidu.com  
-[2]:https://www.google.com
+[2]:https://www.hao123.com
 
 
 基本技能
