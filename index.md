@@ -1,6 +1,6 @@
 大前锋/小前锋/控卫/中锋
 
-[其他文件中的链接](https://sway.cloud.microsoft/wPWsS25fahm9kf86)
+[其他文件中的链接](https://www.jianguoyun.com/d/home#/sandbox/17e8aa4/17c4b6a747d0bf00/%2F%E8%AF%BE%E4%BB%B6/?previewingFileName=%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%AF%BE%E8%AF%BE%E4%BB%B6.pdf)
 
 
 
