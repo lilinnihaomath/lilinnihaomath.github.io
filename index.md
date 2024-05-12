@@ -2,8 +2,7 @@
 
 
 [链接到百度][1]
-[链接到Google][2]  
-[还是链接到百度][1]
+[链接到www.hao123.com][2]  
 
 [1]:https://www.baidu.com  
 [2]:https://www.hao123.com
