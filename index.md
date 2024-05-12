@@ -3,7 +3,7 @@
 
 基本技能
 
-[链接到百度](https://www.baidu.com "百度")
+[博客](https://www.cnblogs.com/downey-blog/)
 
 篮球基本技能
 
