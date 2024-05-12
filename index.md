@@ -1,6 +1,8 @@
 大前锋/小前锋/控卫/中锋
 
-[其他文件中的链接](../path/to/file.md)
+[其他文件中的链接](lilinnihaomath.github.io/index.md)
+
+
 
 
 [链接到百度][1]
