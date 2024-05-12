@@ -1,6 +1,14 @@
 大前锋/小前锋/控卫/中锋
 
 
+[链接到百度][1]
+[链接到Google][2]  
+[还是链接到百度][1]
+
+[1]:https://www.baidu.com  
+[2]:https://www.google.com
+
+
 基本技能
 
 [博客](https://www.cnblogs.com/downey-blog/)
