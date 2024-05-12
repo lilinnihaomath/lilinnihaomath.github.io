@@ -1,6 +1,6 @@
 大前锋/小前锋/控卫/中锋
 
-[其他文件中的链接](git@github.com:lilinnihaomath/lilinnihao.github.io.git)
+[其他文件中的链接]([git@github.com:lilinnihaomath/lilinnihao.github.io.git](https://github.com/lilinnihaomath/lilinnihao.github.io.git))
 
 
 
