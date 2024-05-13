@@ -2,7 +2,7 @@
 
 [其他文件中的链接](https://www.jianguoyun.com/d/home#/sandbox/17e8aa4/17c4b6a747d0bf00/%2F%E8%AF%BE%E4%BB%B6/?previewingFileName=%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%AF%BE%E8%AF%BE%E4%BB%B6.pdf)
 
-[简历](https://github.com/lilinnihaomath/lilinnihaomath.github.io/blob/main/topmagazine.pdf)
+[简历](topmagazine.pdf)
 
 [链接到百度][1]
 
