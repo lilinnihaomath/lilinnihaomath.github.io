@@ -3,7 +3,7 @@
 
 [简历](topmagazine.pdf)
 
-<a href="https://github.com/lilinnihaomath/lilinnihaomath.github.io/blob/cv/topmagazine.pdf" target="_blank">PDF.</a>
+<a href="https://lilinmath.github.io/topmagazine.pdf" target="_blank">PDF.</a>
 
 
 
